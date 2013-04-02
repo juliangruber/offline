@@ -1,0 +1,18 @@
+{
+  "name" : "offline",
+  "description" : "Check of offline",
+  "version" : "0.0.0",
+  "repository" : {
+    "type" : "git",
+    "url" : "git://github.com/juliangruber/offline.git"
+  },
+  "homepage": "https://github.com/juliangruber/offline",
+  "main" : "index.js",
+  "keywords": ["offline","browser"],
+  "author": {
+    "name": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com"
+  },
+  "license": "MIT"
+}
