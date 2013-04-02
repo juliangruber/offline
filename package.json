@@ -1,6 +1,6 @@
 {
   "name" : "offline",
-  "description" : "Check of offline",
+  "description" : "Check if offline",
   "version" : "0.0.0",
   "repository" : {
     "type" : "git",
