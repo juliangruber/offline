@@ -17,6 +17,12 @@ With [npm](http://npmjs.org) do
 $ npm install offline
 ```
 
+With [component](https://github.com/component/component) do
+
+```bash
+$ component install juliangruber/offline
+```
+
 ## License
 
 (MIT)
