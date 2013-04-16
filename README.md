@@ -1,7 +1,6 @@
-
 # offline
 
-If there is a way to determine if the browser is offline, returns true.
+If there is a way to determine if the browser is offline and it actually is, returns true.
 
 ```js
 var offline = require('offline');
