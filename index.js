@@ -1,9 +1,9 @@
 /**
  * Check if offline.
  *
- * @return {Boolean} offline
+ * @return {boolean} offline
  */
 
 module.exports = function () {
-  return typeof navigator.onLine == 'boolean' && !navigator.onLine
+  return false === navigator.onLine
 }
